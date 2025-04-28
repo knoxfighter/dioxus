@@ -5342,6 +5342,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "fullstack-error-example"
+version = "0.1.0"
+dependencies = [
+ "dioxus",
+ "serde",
+]
+
+[[package]]
 name = "fullstack-hackernews-example"
 version = "0.1.0"
 dependencies = [
